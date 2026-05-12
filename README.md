@@ -1,8 +1,8 @@
 <h1 align="center">Olá, eu sou Paulo Henrique Rocha </h1>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-beryl-three-54.vercel.app/api/top-langs/?username=paulorocha-dev&layout=compact&langs_count=7&theme=dark&card_width=400" />
-  <img height="180em" src="https://github-readme-stats-beryl-three-54.vercel.app/api?username=paulorocha-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true&card_width=400" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=paulorocha-dev&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=paulorocha-dev&theme=github_dark" />
 </p>
 
 ---
